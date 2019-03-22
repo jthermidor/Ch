@@ -1,0 +1,74 @@
+.container{
+    width:700px;
+    height:200px;
+    padding:20px;
+    background-image:url("http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg");
+    border-radius:9px;
+    text-align:center;
+    margin:50px auto;
+    font-size:30px;
+}
+.super1{
+    width:198px;
+    height:20px;
+    text-align:center;
+}
+.super2{
+    width:198px;
+    height:20px;
+    text-align:center;
+}
+.super3{
+    width:198px;
+    height:20px;
+    text-align:center;
+}
+.super4{
+    width:198px;
+    height:20px;
+    text-align:center;
+}
+div{
+    width:190px;
+    height:50px;
+    margin:auto;
+}
+body{
+    background-image:url("https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/featured/1026001-dragon-ball-super-snapped-toonami.jpg?itok=NIknwSTr");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100%;
+    
+    
+}
+.bob1{
+  width:200px;
+  height:30px;
+  color:red;
+  border-radius:9px;
+  background-color:black;
+ display:flex;
+ justify-content:center;
+}
+.bob2{
+    text-align:center; 
+    color:yellow;
+    font-size:40px;
+}
+.goku{
+    height:160px;
+    
+}
+.vegeta{
+    height:160px;
+    
+}
+.chichi{
+    height:130px;
+    
+}
+.bob{
+    text-align:center; 
+    color:red;
+    font-size:40px;
+}
